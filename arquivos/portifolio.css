@@ -149,6 +149,7 @@ a:hover {
 }
 .boneco2{
     animation: flutuacao 9s ease-in-out infinite;
+    z-index:-1;
 }
 @keyframes flutuacao{
     0%,100%{
